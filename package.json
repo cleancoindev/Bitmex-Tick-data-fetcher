@@ -1,0 +1,34 @@
+{
+  "name": "bitmex-tick-data-fetcher",
+  "version": "1.0.0",
+  "description": "Insert tick data from Bitmex.com into a Database or CSV files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiveBoroughs/Bitmex-Tick-data-fetcher.git"
+  },
+  "keywords": [
+    "bitmex",
+    "tick",
+    "trading"
+  ],
+  "author": "FiveBoroughs",
+  "license": " AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FiveBoroughs/Bitmex-Tick-data-fetcher/issues"
+  },
+  "homepage": "https://github.com/FiveBoroughs/Bitmex-Tick-data-fetcher#readme",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "dotenv": "^8.2.0",
+    "got": "^11.5.1",
+    "knex": "^0.21.2",
+    "minizlib": "^2.1.0",
+    "moment": "^2.27.0",
+    "pg": "^8.3.0",
+    "stream": "0.0.2"
+  }
+}
