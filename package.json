@@ -23,7 +23,7 @@
   "homepage": "https://github.com/FiveBoroughs/Bitmex-Tick-data-fetcher#readme",
   "dependencies": {
     "cli-progress": "^3.8.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "got": "^11.5.1",
     "knex": "^0.21.2",
     "minizlib": "^2.1.0",
