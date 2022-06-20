@@ -24,7 +24,7 @@
   "dependencies": {
     "cli-progress": "^3.8.2",
     "dotenv": "^8.2.0",
-    "got": "^11.5.1",
+    "got": "^11.8.5",
     "knex": "^0.21.2",
     "minizlib": "^2.1.0",
     "moment": "^2.27.0",
